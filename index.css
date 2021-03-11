@@ -10,6 +10,7 @@ h2 {
   padding: 15px;
   margin: auto;
   font-family: monospace;
+  font-size: large;
 }
 h3 {
   color: black;
@@ -25,6 +26,9 @@ h3 {
   background-color: grey;
   padding: 15px;
   margin: auto;
+  color: black;
+  font-family: monospace;
+  font-size: large;
 }
 .paragraph1 {
   padding: 15px;
@@ -37,6 +41,7 @@ h3 {
   padding: 15px;
   margin: auto;
   font-family: monospace;
+  font-size: large;
 }
 ul {
   font-family: monospace;
